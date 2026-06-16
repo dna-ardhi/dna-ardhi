@@ -2,7 +2,7 @@
 	<h1>Hi, I'm Ardhi</h1>
 	<br/>
 	<br/>
-	<p> a Junior Software Engineer from Indonesia, living in Sumbawa, West Nusa Tenggara. </p>
+	<p> a Software Engineer from Indonesia, living in Jakarta, East Jakarta. </p>
 </div>
 
 <br/>
@@ -10,8 +10,6 @@
 
 ## 📝 Get In Touch
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 <br/>
@@ -49,6 +47,4 @@
 	</a>
 </div>
 
-[instagram]: https://www.instagram.com/ardhi_v1.0
-[linkedin]: https://www.linkedin.com/in/dadinurardhi/
 [gmail]: mailto:dadinurardhi@gmail.com
